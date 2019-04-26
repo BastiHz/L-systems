@@ -29,3 +29,4 @@ L_system(a, r, 4)
 L_system(a, r, 4, TRUE)
 
 
+# TODO: Funktion zum plotten schreiben.
